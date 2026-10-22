@@ -140,7 +140,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <link rel="stylesheet" href="css/style.css">
 
     <!-- Menghubungkan file JavaScript -->
-    <script src="js/script.js" defer></script>
+    <script src="js/script.js"></script>
 </head>
 
 <body>
